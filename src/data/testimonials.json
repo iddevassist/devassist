@@ -1,0 +1,45 @@
+[
+
+  {
+    "id": 1,
+    "quote": "Sistem Informasi Perpustakaan yang dikembangkan sangat membantu digitalisasi kampus kami. Fitur peminjaman dan laporan otomatisnya berjalan stabil dan user-friendly.",
+    "author": "Dr. Hendra Pratama",
+    "role": "Kepala Perpustakaan"
+  },
+  {
+    "id": 2,
+    "quote": "Aplikasi kasir desktop yang dibuat sangat cepat dan bisa digunakan secara offline. Integrasi printer thermal berjalan lancar dan mempermudah operasional coffee shop kami.",
+    "author": "Nadia Lestari",
+    "role": "Owner Coffee Shop"
+  },
+  {
+    "id": 3,
+    "quote": "Sistem pendukung keputusan dengan metode TOPSIS yang dikembangkan sangat membantu kami dalam analisis saham berbasis rasio fundamental. Perhitungannya transparan dan edukatif.",
+    "author": "Rizky Ananda",
+    "role": "Investor & Analis Keuangan"
+  },
+  {
+    "id": 4,
+    "quote": "Website company profile yang dibuat tampil modern, responsif, dan profesional. Sangat membantu meningkatkan kredibilitas brand kami di mata klien.",
+    "author": "Rina Wijaya",
+    "role": "Founder Startup Edukasi"
+  },
+  {
+    "id": 5,
+    "quote": "Portfolio berbasis Next.js yang dikembangkan memiliki performa cepat dan animasi yang halus. Sangat mencerminkan personal branding yang kuat sebagai developer.",
+    "author": "Arif Setiawan",
+    "role": "Tech Recruiter"
+  },
+  {
+    "id": 6,
+    "quote": "Analisis data dan dashboard yang dibuat sangat informatif dan mudah dipahami. Visualisasi membantu kami mengambil keputusan pemasaran dengan lebih tepat.",
+    "author": "Budi Santoso",
+    "role": "Manajer Pemasaran"
+  },
+  {
+    "id": 7,
+    "quote": "Kolaborasi sangat profesional, komunikatif, dan tepat waktu. Solusi yang diberikan tidak hanya teknis tetapi juga strategis untuk kebutuhan bisnis kami.",
+    "author": "Dewi Kartika",
+    "role": "Business Development Manager"
+  }
+]

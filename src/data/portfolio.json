@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "Sistem Informasi Manajemen Skripsi",
+    "category": "Web Development",
+    "description": "Platform manajemen skripsi online untuk universitas dengan fitur bimbingan dan pendaftaran sidang.",
+    "tech": ["Laravel", "MySQL", "Tailwind"],
+    "image": "/images/portfolio/portfolio-1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Analisis Sentimen Ulasan Aplikasi",
+    "category": "Data Science",
+    "description": "Analisis sentimen ribuan ulasan pengguna menggunakan NLP untuk meningkatkan kualitas layanan.",
+    "tech": ["Python", "Scikit-learn", "NLTK"],
+    "image": "/images/portfolio/portfolio-2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Company Profile Startup Edukasi",
+    "category": "UI/UX Design",
+    "description": "Perancangan UI/UX website company profile dengan pendekatan modern dan responsif.",
+    "tech": ["Figma", "Adobe XD"],
+    "image": "/images/portfolio/portfolio-3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Dashboard Monitoring IoT",
+    "category": "IoT & Embedded",
+    "description": "Dashboard real-time untuk monitoring sensor suhu dan kelembaban menggunakan ESP32.",
+    "tech": ["Node.js", "Chart.js", "MQTT"],
+    "image": "/images/portfolio/portfolio-4.jpg"
+  },
+ {
+  "id": 5,
+  "title": "Sistem Informasi Perpustakaan Berbasis Web",
+  "category": "Skripsi / Web Development",
+  "description": "Pengembangan sistem informasi perpustakaan dengan fitur manajemen buku, peminjaman, pengembalian, dan laporan berbasis Laravel.",
+  "tech": ["Laravel", "MySQL", "Bootstrap"],
+  "image": "/images/portfolio/portfolio-5.jpg"
+},
+{
+  "id": 6,
+  "title": "Analisis Sentimen Twitter Menggunakan NLP",
+  "category": "Skripsi / Data Science",
+  "description": "Implementasi analisis sentimen terhadap data Twitter menggunakan metode Naive Bayes dan preprocessing NLP.",
+  "tech": ["Python", "Scikit-learn", "NLTK"],
+  "image": "/images/portfolio/portfolio-6.jpg"
+},
+{
+  "id": 7,
+  "title": "Sistem Pendukung Keputusan Metode TOPSIS",
+  "category": "Skripsi / Decision Support System",
+  "description": "Perancangan sistem pendukung keputusan menggunakan metode TOPSIS untuk pemilihan kandidat terbaik.",
+  "tech": ["PHP", "MySQL", "Bootstrap"],
+  "image": "/images/portfolio/portfolio-7.jpg"
+},
+{
+  "id": 8,
+  "title": "Aplikasi Kasir Desktop Berbasis Electron",
+  "category": "Tugas Akhir / Desktop App",
+  "description": "Aplikasi kasir offline-first dengan fitur manajemen produk, transaksi, dan cetak struk thermal.",
+  "tech": ["Electron", "SQLite", "JavaScript"],
+  "image": "/images/portfolio/portfolio-8.jpg"
+},
+{
+  "id": 9,
+  "title": "Clustering Data Menggunakan K-Means",
+  "category": "Tugas Data Mining",
+  "description": "Implementasi algoritma K-Means untuk segmentasi data pelanggan dan visualisasi hasil clustering.",
+  "tech": ["Python", "Pandas", "Matplotlib"],
+  "image": "/images/portfolio/portfolio-9.jpg"
+},
+{
+  "id": 10,
+  "title": "Sistem Informasi Penjualan Berbasis Web",
+  "category": "Project Kuliah / Web App",
+  "description": "Sistem penjualan online dengan fitur manajemen produk, transaksi, laporan, dan dashboard admin.",
+  "tech": ["CodeIgniter", "MySQL", "Bootstrap"],
+  "image": "/images/portfolio/portfolio-10.jpg"
+},
+{
+  "id": 11,
+  "title": "Implementasi REST API dengan Node.js",
+  "category": "Tugas Backend Development",
+  "description": "Pengembangan RESTful API untuk manajemen data menggunakan Express.js dan integrasi database MongoDB.",
+  "tech": ["Node.js", "Express", "MongoDB"],
+  "image": "/images/portfolio/portfolio-11.jpg"
+},
+{
+  "id": 12,
+  "title": "Website Company Profile Responsif",
+  "category": "Project UI/UX & Frontend",
+  "description": "Pembuatan website company profile modern dan responsif dengan desain profesional dan SEO friendly.",
+  "tech": ["Next.js", "Tailwind CSS", "Vercel"],
+  "image": "/images/portfolio/portfolio-12.jpg"
+}
+]
