@@ -1,11 +1,15 @@
-    import { Inter } from "next/font/google";
+import { Inter } from "next/font/google";
 import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
 export const metadata = {
   title: "devassist.id - Solusi Profesional Akademik & IT",
-  description: "devassist.id menyediakan layanan profesional di bidang pendidikan dan teknologi: pengerjaan project, website, data analysis, dan kebutuhan IT lainnya.",
+  description:
+    "devassist.id menyediakan layanan profesional di bidang pendidikan dan teknologi: pengerjaan project, website, data analysis, dan kebutuhan IT lainnya.",
+  icons: {
+    icon: "/favicon.png",
+  },
 };
 
 export default function RootLayout({ children }) {
